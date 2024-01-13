@@ -1,0 +1,10 @@
+1 Dr.Smith Cardiologist 9:00AM-5:00PM Monday,Wednesday,Friday,Tuesday
+2 Dr.Jones Orthopedic 9:00AM-4:00PM Tuesday,Thursday,Saturday
+3 Dr.Wang Dermatologist 1:00PM-6:00PM Monday,Wednesday,Friday
+4 Dr.Miller Pediatrician 8:00AM-3:00PM Tuesday,Thursday,Saturday
+5 Dr.Lee Neurologist 11:00AM-6:00PM Monday,Wednesday,Friday
+6 Dr.Kim Ophthalmologist 10:00AM-5:00PM Tuesday,Thursday,Saturday
+7 Dr.Garcia Gastroenterologist 9:00AM-4:00PM Monday,Wednesday,Friday
+8 Dr.Martin Pulmonologist 8:00AM-3:00PM Tuesday,Thursday,Saturday
+9 Dr.Hernandez Rheumatologist 1:00PM-6:00PM Monday,Wednesday,Friday
+10 Dr.Nguyen Urologist 11:00AM-6:00PM Tuesday,Thursday,Saturday
